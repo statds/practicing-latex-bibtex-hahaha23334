@@ -1,0 +1,6 @@
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.4]{prime_distribution.png}
+\caption{Distribution of prime numbers}
+\label{prime_distribution}
+\end{figure}
