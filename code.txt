@@ -1,6 +1,24 @@
+#Figure
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.4]{prime_distribution.png}
 \caption{Distribution of prime numbers}
 \label{prime_distribution}
 \end{figure}
+#table
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+Application & Description \\
+\hline
+Cryptography & Using prime numbers for encoding \\
+\hline
+Randomness Testing & Using modular arithmetic \\
+\hline
+Error Detection & Via checksums based on remainders \\
+\hline
+\end{tabular}
+\caption{Applications of Number Theory in Statistics}
+\label{table:applications}
+\end{table}
